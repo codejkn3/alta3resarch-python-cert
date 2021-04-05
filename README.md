@@ -1,3 +1,3 @@
 # alta3resarch-python-cert
-A piece of code taking the Python Basics Course
+A small piece of code I wrote after taking the Python Basics Course
 Instructor Zack Feeser
